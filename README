@@ -15,3 +15,16 @@ PyPoll Instructions
     - The winner of the election based on popular vote
 
 Resources/Reference Materials Utilized for Guidance: 
+  - write dictionary items on separate lines when writing to text file: https://stackoverflow.com/questions/61894745/write-dictionary-to-text-file-with-newline
+  - reading files in dictionary form: https://docs.python.org/3/library/csv.html, https://blog.finxter.com/convert-csv-to-dictionary-in-python/
+  - getting keys by values in dictionary: https://stackoverflow.com/questions/8023306/get-key-by-value-in-dictionary
+  - extracting all dictionary values: https://www.geeksforgeeks.org/ways-to-extract-all-dictionary-values-python/
+  - python dictionary methods: https://www.w3schools.com/python/python_ref_dictionary.asp
+  - getting number of elements in a list: https://www.geeksforgeeks.org/how-to-get-the-number-of-elements-in-a-python-list/
+  - iterating over a list of dictionaries: https://stackoverflow.com/questions/35864007/how-to-iterate-through-a-list-of-dictionaries
+  - info on lists of dictionaries: https://www.scaler.com/topics/list-of-dictionaries-in-python/
+  - Getting dictionary keys as a list: https://www.geeksforgeeks.org/python-get-dictionary-keys-as-a-list/
+  - Get values of particular key in list of dictionaries:https://www.geeksforgeeks.org/python-get-values-of-particular-key-in-list-of-dictionaries/
+  - Info on error encountered in assignment: https://codedamn.com/news/python/fix-typeerror-list-indices-must-be-integers-or-slices-not-str
+  - Getting key with maximum value in dictionary: https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
+  - Getting unique values in list: https://www.freecodecamp.org/news/python-unique-list-how-to-get-all-the-unique-values-in-a-list-or-array/
